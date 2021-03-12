@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm [Daniel Mentiplay](https://dmentipl.github.io/)
 
-- 🌧 I work as a guidance post-processing data scientist at the Bureau of Meteorology.
-- ‍🎓 I was a computational astrophysics PhD student at Monash University, where I used numerical simulations to study protoplanetary discs, the birthplace of planets.
-- 💻 I like to write open source scientific software.
+- 🌧 I work at the Bureau of Meteorology on post-processing [NWP](https://en.wikipedia.org/wiki/Numerical_weather_prediction) data.
+- ‍🎓 I completed my PhD in astrophysics at Monash University, where I used numerical simulations to study protoplanetary discs, the birthplace of planets.
+- 💻 I like to write open source scientific software in Python, Julia, and Fortran.
 
 ### 🌱 Projects I have worked on
 
